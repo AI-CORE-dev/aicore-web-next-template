@@ -1,13 +1,4 @@
 {
-    "home": {
-        "principalMenu": "Menú Principal - Datos a Aprender",
-        "principalMenuNav": "Menu Principal",
-        "startLearning": "Iniciar Aprendizaje",
-        "pending": "Pendiente",
-        "requirements": "Requisitos",
-        "newData": "Dato nuevo",
-        "loading": "Cargando..."
-    },
     "data": {
 
    },
@@ -18,10 +9,7 @@
             "close": "Cerrar",
             "accept": "Aceptar",
             "start": "Empezar",
-            "next": "Siguiente",
-            "write": "ESCRIBE",
-            "learn": "Aprender",
-            "error": "ERROR"
+            "next": "Siguiente"
         },
         "nouns": {
             "finished": "Finalizado"
